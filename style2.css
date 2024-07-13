@@ -1,0 +1,212 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.screen {
+    border: solid black;
+    box-shadow: 1px 2px 2px 1px;
+    width: 313px;
+    height: 70px;
+    font-size: 50px;
+    background-color: rgb(175, 173, 173);
+    text-align: right;
+    border-radius: 5px;
+    display: inline-block;
+    margin-left: 520px;
+    margin-top: 200px;
+}
+
+.firstrow{
+    display: inline-block;
+    margin-left: 500px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-top: 20px;
+}
+
+.row1{
+    font-size: 25px;
+    margin-left: 20px;
+    border: 0px;
+    box-shadow: 1px 2px 2px 1px;
+    color: rgb(33, 31, 31);
+    background-color: rgb(242, 242, 42);
+    width: 60px;
+    height: 60px;
+}
+
+.row1:hover{
+    background-color: black;
+    color: white;
+}
+
+.clear{
+    font-size: 25px;
+    margin-left: 20px;
+    border: 0px;
+    box-shadow: 1px 2px 2px 1px;
+    color: rgb(33, 31, 31);
+    background-color: rgb(248, 64, 64);
+    width: 60px;
+    height: 60px;
+}
+
+.clear:hover{
+    background-color: black;
+    color: white;
+}
+
+.secondrow{
+    margin-left: 500px;
+    display: inline-block;
+    padding-left: 0%;
+    margin-left: 500px;
+    margin-top: 20px;
+
+}
+
+.row2{
+    font-size: 25px;
+    margin-left: 20px;
+    border: 0px;
+    box-shadow: 1px 2px 2px 1px;
+    color: rgb(33, 31, 31);
+    background-color: rgb(242, 242, 42);
+    width: 60px;
+    height: 60px;
+}
+
+.row2:hover{
+    background-color: black;
+    color: white;
+}
+
+.plus{
+    font-size: 25px;
+    margin-left: 20px;
+    border: 0px;
+    box-shadow: 1px 2px 2px 1px;
+    color: rgb(33, 31, 31);
+    background-color: rgb(80, 80, 244);
+    width: 60px;
+    height: 60px;
+}
+
+.plus:hover{
+    background-color: black;
+    color: white;
+}
+
+.thirdrow{
+    display: inline-block;
+    margin-left: 500px;
+    margin-top: 20px;
+}
+
+.row3{
+    font-size: 25px;
+    margin-left: 20px;
+    border: 0px;
+    box-shadow: 1px 2px 2px 1px;
+    color: rgb(33, 31, 31);
+    background-color: rgb(242, 242, 42);
+    width: 60px;
+    height: 60px;
+}
+
+.row3:hover{
+    background-color: black;
+    color: white;
+}
+
+.minus{
+    font-size: 25px;
+    margin-left: 20px;
+    border: 0px;
+    box-shadow: 1px 2px 2px 1px;
+    color: rgb(33, 31, 31);
+    background-color: rgb(80, 80, 244);
+    width: 60px;
+    height: 60px;
+}
+
+.minus:hover{
+    background-color: black;
+    color: white;
+}
+
+.fourthrow{
+    display: inline-block;
+    margin-left: 500px;
+    margin-top: 20px;
+}
+
+.row4{
+    font-size: 25px;
+    margin-left: 20px;
+    border: 0px;
+    box-shadow: 1px 2px 2px 1px;
+    color: rgb(33, 31, 31);
+    background-color: rgb(242, 242, 42);
+    width: 60px;
+    height: 60px;
+}
+
+.row4:hover{
+    background-color: black;
+    color: white;
+}
+
+.multiply,.divide{
+    font-size: 25px;
+    margin-left: 20px;
+    border: 0px;
+    box-shadow: 1px 2px 2px 1px;
+    color: rgb(33, 31, 31);
+    background-color: rgb(80, 80, 244);
+    width: 60px;
+    height: 60px;
+}
+
+.multiply:hover{
+    background-color: black;
+    color: white;
+}
+
+.divide:hover{
+    background-color: black;
+    color: white;
+}
+
+.fifthrow{
+    display: inline-block;
+    margin-left: 500px;
+    margin-top: 20px;
+}
+
+.row5{
+    font-size: 25px;
+    margin-left: 20px;
+    border: 0px;
+    box-shadow: 1px 2px 2px 1px;
+    background-color: rgb(242, 242, 42);
+    width: 60px;
+    height: 60px;
+}
+
+.equal{
+    font-size: 25px;
+    margin-left: 20px;
+    border: 0px;
+    box-shadow: 1px 2px 2px 1px;
+    color: rgb(33, 31, 31);
+    background-color: rgb(61, 245, 61);
+    width: 312px;
+    height: 60px;
+}
+
+.equal:hover{
+    background-color: black;
+    color: white;
+  }
